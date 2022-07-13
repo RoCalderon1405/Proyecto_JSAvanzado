@@ -14,7 +14,3 @@ clearIcon.addEventListener("click", () => {
   searchBar.value = "";
   clearIcon.style.visibility = "hidden";
 })
-
-
-// Consumo de API
-
